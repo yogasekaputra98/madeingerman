@@ -1,0 +1,6 @@
+database:
+  host: db.uhu.local
+  port: 5432
+  name: stic_kuning_dev
+  username: admin_stic
+  password: UhuSTICKuning2026!
