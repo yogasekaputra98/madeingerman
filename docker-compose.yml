@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  app:
+    image: python:3.12
+    environment:
+      DB_HOST: db.uhu.local
+      DB_NAME: stic_kuning_dev
+      DB_USER: admin_stic
+      DB_PASSWORD: UhuSTICKuning2026!
